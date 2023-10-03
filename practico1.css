@@ -1,0 +1,76 @@
+/* barra de navegacion */
+.navbar{
+    background-color: darkslategray;
+}
+
+.logo{
+    list-style-type:none;
+    justify-content: center;
+    align-content: center;
+
+}
+div ul {
+    display:flex;
+    align-content: center;
+    justify-content:right;
+
+
+}
+
+
+
+.Resto-barra{
+    
+    list-style-type: none;
+   
+    
+
+}
+
+
+.degradado .degradado-desc{
+    background-color: rgba;
+    bottom: 0px;
+    color:white;
+    font-size: 1.2em;
+    left: 0px;
+    padding: 10px 15px;
+    transition: 0.5s padding;
+    width: 100%;
+}
+.text-end{
+    text-align: right!important;
+}
+.px-5{
+    padding-right: 3rem!important;
+    padding-left: 3rem!important;
+}
+.card-img{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+.card-img-overlay{
+    top: 0;
+    right: 0;
+    border-radius: var(--bs-card-inner-border-radius);
+}
+.contenedor{
+    display:flex;
+}
+.Foto1.jpg{
+    width: 350px;
+    height: 250px;
+    margin-right: 25px;
+}
+.Foto2.jpg{
+    width: 350px;
+    height: 250px;
+    margin-right: 25px;
+}
+.Foto3.jpg{
+    width: 350px;
+    height: 250px;
+    margin-right: 25px;
+}
